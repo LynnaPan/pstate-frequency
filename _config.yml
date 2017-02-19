@@ -1,0 +1,8 @@
+title: Pstate-frequency
+description: Easily control Intel p-state driver on Linux
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
